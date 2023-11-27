@@ -16,6 +16,7 @@ This course including :
 - Sentiment Analytics and Text Classifcation Using Bi-LSTM / BERT (including Wangchan-BERT) and Other Techniques
   - Tutorial from Lecturer :
     - RNN Model : https://blog.pjjop.org/sentiment-analysis-101/?fbclid=IwAR2QNNY6qMctLgh69But1ttUn-1y4mDqkZkA4wB6jyqWOipZ5eAeeSn1aek
+    - CNN Model : https://blog.pjjop.org/sentiment-analysis-using-cnn/?fbclid=IwAR1Fg36ZIjVJt323EiVTEQE-Vy_82_PbTbODYRN6IGr05oBwZuL7b2ACCMA
       
 - Other Text Processng Using Transformer
 - Text Summarization
