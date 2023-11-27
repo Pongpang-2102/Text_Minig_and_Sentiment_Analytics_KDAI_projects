@@ -20,6 +20,11 @@ This course including :
       
 - Other Text Processng Using Transformer
 - Text Summarization
+  - (Tutorial from Lecturer : 
+    - https://blog.pjjop.org/thai-text-summarization-with-bert-and-pagerank/?fbclid=IwAR2jGixlCqx-0wG3_05mMYyvkLKnJKGK2jqrwJzTnZvBoMCGAT_D7nisqHc)
+  - Data source : Data obtained from blog : สำรวจ 10 เกร็ดประวัติศาสตร์ญี่ปุ่นจาก One piece ภาควาโนะคุนิ (Published on The Matter Website in Thai Language)
+    - https://thematter.co/entertainment/one-piece-wano-kuni/213473?fbclid=IwAR26K2-fzVXj2OKb3SWNv9Qk7qKjs4ClSKqZK_xhiODJtkw0IOC_3p-Z-s0
+      
 - Topic Modeling and Clustering
 - Basic Model Deployment (using Postman)
 - ChatGPT model Concept 
