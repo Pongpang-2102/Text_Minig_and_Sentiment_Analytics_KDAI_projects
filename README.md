@@ -6,14 +6,17 @@ This course including :
 - English Text Processing and Tools
 - Basic Regular Expression
 - Word Embedding Model
-  (Tutorial from Lecturer :
-  - https://blog.pjjop.org/word2vec-model/?fbclid=IwAR15GhwhrIRIgyj8_GeZ1BRTtqkvaWf-0iYgTY8lurX0u6XQ3x982UZNDI4  ,
-  - https://blog.pjjop.org/word2vec-using-gensim/?fbclid=IwAR1jaXddxOGkD74AvmPUglvgpyuWxa1tWfEz9Q4qIfk-nhRwpxcxDPc-fn8  )
+  - (Tutorial from Lecturer :
+     - https://blog.pjjop.org/word2vec-model/?fbclid=IwAR15GhwhrIRIgyj8_GeZ1BRTtqkvaWf-0iYgTY8lurX0u6XQ3x982UZNDI4  ,
+     - https://blog.pjjop.org/word2vec-using-gensim/?fbclid=IwAR1jaXddxOGkD74AvmPUglvgpyuWxa1tWfEz9Q4qIfk-nhRwpxcxDPc-fn8  )
 - Thai Text Processing Tools
 - Data Getting by Web Scraping and API
-- Text Classification using CNN MOdel
+- Text Classification using CNN Model
 - Performance Measurement and Model Evaluation
 - Sentiment Analytics and Text Classifcation Using Bi-LSTM / BERT (including Wangchan-BERT) and Other Techniques
+  - Tutorial from Lecturer :
+    - RNN Model : https://blog.pjjop.org/sentiment-analysis-101/?fbclid=IwAR2QNNY6qMctLgh69But1ttUn-1y4mDqkZkA4wB6jyqWOipZ5eAeeSn1aek
+      
 - Other Text Processng Using Transformer
 - Text Summarization
 - Topic Modeling and Clustering
